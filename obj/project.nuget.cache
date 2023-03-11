@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "2DodK6CCD4McG7RIJqWe5H4nbFGl+MZX0xJFyytiHePIjhbyvbKBC7h9+pmR3tpVywP9f8Vqqixu3uw3BAdVpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cmone\\OneDrive\\Documents\\GitHub\\UserAuth\\UserAuth\\UserAuth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cmone\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\cmone\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\cmone\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\cmone\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\cmone\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\cmone\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
